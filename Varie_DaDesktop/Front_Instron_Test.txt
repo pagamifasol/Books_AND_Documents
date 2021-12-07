@@ -1,0 +1,10 @@
+- contatto pacco quando macchina segna 0 assoluto
+
+- Offset = Static clearance (19mm)
+
+- Target load = 4100 N
+
+
+- Scale factor : 27.8207 mm
+
+- Max comp : -8.4709 mm

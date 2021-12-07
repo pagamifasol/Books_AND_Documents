@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Overrides Locale="English_United States.1252" DefaultLocale="C">
+ <Override Id="Air Temp Inlet" DisplayColorIndex="6" AutoScale="0" DisplayMax="332.149993999999992" DisplayMin="272.149993999999992"/>
+ <Override Id="Bat Volts ADL" DisplayMax="15.000000000000000" DisplayMin="10.000000000000000" AutoScale="0"/>
+ <Override Id="Battery Volts" DisplayMax="15.000000000000000" DisplayMin="10.000000000000000" AutoScale="0"/>
+ <Override Id="Brake Status" DisplayColorIndex="0"/>
+ <Override Id="CAN10002XSI1ECM_Engine_Status_InformationAccActPos" DisplayColorIndex="5"/>
+ <Override Id="Corr Speed" DisplayMax="55.555557000000000" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="EMotorsTorque_fromGPS_2Cont" DisplayColorIndex="6"/>
+ <Override Id="EMotorsTorque_fromGPS_2Peak" DisplayColorIndex="5"/>
+ <Override Id="EMotorsTorque_fromGPS_3Peak" DisplayColorIndex="4"/>
+ <Override Id="Eng Oil Pres" DisplayMax="600000.000000000000000" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="Eng Oil Temp" DisplayMax="382.149993999999992" DisplayMin="272.149993999999992" AutoScale="0"/>
+ <Override Id="Engine RPM" DisplayMax="837.758057000000008" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="Engine Temp" DisplayMax="382.149993999999992" DisplayMin="272.149993999999992" AutoScale="0"/>
+ <Override Id="Fuel Pres" DisplayMax="600000.000000000000000" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="G Force Lat" DisplayMax="19.613303999999999" DisplayMin="-19.613303999999999" AutoScale="0"/>
+ <Override Id="G Force Long" DisplayMax="14.709978000000000" DisplayMin="-14.709978000000000" AutoScale="0"/>
+ <Override Id="Lambda 1" DisplayMax="1.100000000000000" DisplayMin="0.800000000000000" AutoScale="0"/>
+ <Override Id="Lambda 2" DisplayMax="1.100000000000000" DisplayMin="0.800000000000000" AutoScale="0"/>
+ <Override Id="Manifold Pres" DisplayMax="249999.984375000000000" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="SDC Mode" DisplayColorIndex="5"/>
+ <Override Id="Steered Angle" DisplayMax="0.174533000000000" DisplayMin="-0.174533000000000" AutoScale="0"/>
+ <Override Id="Throttle Pos" DisplayMax="1.000000000000000" DisplayMin="0.000000000000000" AutoScale="0"/>
+ <Override Id="TorqueLosses" AutoScale="0" DisplayColorIndex="1" DisplayMin="0.000000000000000" DisplayMax="20000.000000000000000"/>
+ <Override Id="TorqueLosses_fromGPSonly" AutoScale="0" DisplayColorIndex="4" DisplayMin="0.000000000000000" DisplayMax="20000.000000000000000"/>
+ <Override Id="Wheel Speed Rear" DisplayColorIndex="2"/>
+ <Override Id="WheelTorque_fromEngine" AutoScale="0" DisplayColorIndex="0" DisplayMin="0.000000000000000" DisplayMax="20000.000000000000000"/>
+</Overrides>

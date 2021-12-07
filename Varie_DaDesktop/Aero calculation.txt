@@ -1,0 +1,19 @@
+[Front Wheel Fz] +CONST(HCG)*CONST(Mass)*[GLongSmooth]/CONST(WB) +[Load Aero F Pit]
+
+Front wheel Fz is the load at FL push w/o the static FL weight at wheel.
+U could have this information in the pit lane when pit limiter is ON, PPS > 15, car_speed > 54 and < 63.
+
+But U have to add Load of Aerospeed @60kph what is a theorical value from ScZF.
+
+U have also to take in account the Load transfer
+HCG is CoG height
+Mass is car weight
+Glongsmooth is Filtered Longitudinal Acc
+WB is wheelbase
+
+FrontWheel_Fz: 4.670+4.657
+AeroLoadF_@60kph: ~Czf*A @ static RH (60/80) -> 3.7
+
+RearWheel_Fz: 9.111+8.950
+AeroLoadR_@60kph: ~Czr*A @ static RH (60/80) -> 2.137
+

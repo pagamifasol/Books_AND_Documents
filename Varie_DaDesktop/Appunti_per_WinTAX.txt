@@ -1,0 +1,6 @@
+Appunti su WinTAX:
+
+- Loadcell puntoni correggere unità di misura e aumentare risoluzione
+- Non mi pare funzionino i segnali temperature pinze
+- Cosa sono FAero????
+- Calcolo energia semiassi? Non funziona in  telemtria, perchè?
